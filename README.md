@@ -1,11 +1,12 @@
 # Hi there, I'm Omudia (@egopinido) 👋
-### ⚡ The Intelligent, High-Resilience Infrastructure for Digital Growth & Automation
+### ⚡ Next-Generation SMM Panel & Digital Growth Infrastructure | لوحة خدمات السوشيال ميديا ونمو الحضور الرقمي
 
 <div align="center">
   <img src="https://omudia.com/logo.png" alt="Omudia Logo" width="130" />
   <br/>
   <br/>
   
+  [![Launch Status](https://img.shields.io/badge/Launch%20Status-Coming%20Soon%20%7C%20قريباً-F59E0B?style=for-the-badge&logo=rocket&logoColor=white)](https://omudia.com)
   [![Website](https://img.shields.io/badge/Official%20Site-omudia.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omudia.com)
   [![Platforms Directory](https://img.shields.io/badge/Platforms%20Directory-16+%20Supported-F59E0B?style=for-the-badge&logo=target&logoColor=white)](https://omudia.com/platforms)
   [![SLA](https://img.shields.io/badge/Platform%20SLA-99.9%25-10B981?style=for-the-badge&logo=uptime&logoColor=white)](https://omudia.com)
@@ -16,7 +17,7 @@
 
 ### 🌐 Welcome to the Omudia Open Source Ecosystem
 
-**Omudia** is an institutional-grade, multi-platform growth engine and automation ecosystem designed for digital agencies, influencers, creators, and developers worldwide. Our architecture delivers sub-second order dispatching, multi-provider circuit-breaking failover, and verifiable fulfillment without requiring account passwords.
+**Omudia** is an institutional-grade **Next-Generation SMM Panel (لوحة خدمات التسويق ونمو الحضور الرقمي الذكية)** and multi-platform automation ecosystem designed for digital agencies, SMM resellers, influencers, creators, and developers worldwide. Our architecture delivers sub-second order dispatching, multi-provider circuit-breaking failover, and verifiable fulfillment without requiring account passwords.
 
 ---
 
@@ -27,7 +28,6 @@
 | [🎯 **goal**](https://github.com/egopinido/goal) | **Automated KPI & Target Tracking Engine** | Milestone progression, predictive KPI completion, real-time analytics & automated campaign goal triggers. |
 | [⚡ **boost**](https://github.com/egopinido/boost) | **High-Velocity FYP & Engagement Dispatcher** | Algorithmic feed acceleration, real-time engagement distribution, concurrent queue pipelines & rate limiting. |
 | [🐝 **swarm**](https://github.com/egopinido/swarm) | **Distributed Multi-Provider Node Mesh** | Resilient circuit-breaker architecture, dynamic upstream routing, health checks & zero-downtime failover proxy. |
-| [📱 **omudia**](https://github.com/egopinido/omudia) | **Official Omudia Platform & Android App** | Production Android APK releases, Telegram Mini App portal, Web App integration & verified release binaries. |
 
 ---
 
@@ -86,4 +86,3 @@ We maintain native dispatching and real-time metric tracking across **16+ major 
 <div align="center">
   <sub>© 2026 Omudia Ecosystem. Built for speed, scale, and resilience.</sub>
 </div>
-
